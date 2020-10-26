@@ -4,7 +4,7 @@ categories:
     - Book
 ---
 
-![프리하지 않은 프리랜서 라이프](../images/free.jpeg){: width="300"}
+![](/assets/images/free.jpeg){: width="300"}
 
 **읽은 기간** 3/10~3/17
 {: .notice}
